@@ -6,7 +6,7 @@ const dataProjects = [
         date: '',
         description: `AgroGuard é uma plataforma tecnológica para pequenos agricultores que visa melhorar a resiliência climática e a segurança alimentar através do monitoramento agrícola com IA, previsões climáticas e gerenciamento de irrigação inteligente :D <br><br>
 
-        • Funcionalidades da Plataforma<br><br>
+        • Funcionalidades da Plataforma:<br><br>
 
         1. Monitoramento Agrícola  <br>
         - Sensores IoT: Coleta de dados em tempo real sobre as condições do solo, umidade, temperatura e saúde das plantas.<br>
