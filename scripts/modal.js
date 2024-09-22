@@ -2,21 +2,29 @@
 
 const dataProjects = [
     {
-        title: 'DoWhile 2021 Virtual Badge',
-        date: '24 de Outubro de 2021',
-        description: `O DoWhile 2021 Card é uma aplicação interativa que mostra informações do usuário através da API do GitHub :D <br><br>
+        title: 'AgroGuard',
+        date: '',
+        description: `AgroGuard é uma plataforma tecnológica para pequenos agricultores que visa melhorar a resiliência climática e a segurança alimentar através do monitoramento agrícola com IA, previsões climáticas e gerenciamento de irrigação inteligente :D <br><br>
 
-        Após concluir o evento, adicionei funcionalidades extras, como: <br><br>
+        • Funcionalidades da Plataforma<br><br>
+
+        1. Monitoramento Agrícola  <br>
+        - Sensores IoT: Coleta de dados em tempo real sobre as condições do solo, umidade, temperatura e saúde das plantas.<br>
+        - Análise de Dados: Processamento e análise dos dados coletados para avaliar a saúde das culturas e o estado do solo.<br><br>
         
-        • Modal para o usuário inserir seus próprios dados no Card; <br>
-        • Armazenamento dos dados inseridos pelo usuário no LocalStorage do navegador, fazendo com que as informações sejam mantidas mesmo após fechar a página; <br>
-        • Animação de Flip em 3D (com CSS puro); <br>
-        • Verso do Card com informações sobre o DoWhile 2021; <br>
+        2. Previsões Climáticas  <br>
+        - Modelos Climáticos: Utilização de IA para prever condições climáticas futuras, como chuvas, temperaturas extremas e eventos meteorológicos.<br>
+        - Alertas de Tempo: Notificações e alertas sobre eventos climáticos extremos e recomendações de ações preventivas.<br><br>
+        
+        3. Irrigação Inteligente  <br>
+        - Recomendações de Irrigação: Sugestões de irrigação baseadas nas condições do solo e nas previsões climáticas para otimizar o uso da água.<br>
+        - Automatização de Irrigação: Controle automático de sistemas de irrigação com base nas recomendações fornecidas pela plataforma.<br>
+        
         • Versão Desktop e Mobile.`, 
-        videoSrc: 'https://streamable.com/e/qceqn0',
-        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:6858050562471145472/',
-        repository: 'https://github.com/rhuanbello/origin-nlw-heat',
-        site: 'https://dowhile2021-rhuanbello.vercel.app/'
+       // videoSrc: 'https://streamable.com/e/qceqn0',
+        //linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:6858050562471145472/',
+        //repository: 'https://github.com/rhuanbello/origin-nlw-heat',
+        //site: 'https://dowhile2021-rhuanbello.vercel.app/'
 
     },
     {
