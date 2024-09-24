@@ -1,24 +1,22 @@
-##💻 Sobre
+<h1>💻 Sobre</h1>
+Meu portfólio pessoal, onde exibo informações sobre mim e todos os meus projetos desenvolvidos.<br>
+Alguns features existentes são:<br>
+<b>&bullet; Light & Dark Mode;<br>
+&bullet; Animação ao Scroll (com JavaScript puro);<br>
+&bullet; Responsividade para todos dispositivos;<br>
+&bullet; Modal que busca dados de Array de objetos;<br><br></b>
 
-Meu portfólio pessoal, onde exibo informações sobre mim e todos os meus projetos desenvolvidos.
-Alguns features existentes são:
-*Light & Dark Mode;
-*Animação ao Scroll (com JavaScript puro);
-*Responsividade para todos dispositivos;
-*Modal que busca dados de Array de objetos;
 
-Você pode acessá-lo com este link.
+<h1>🚀 Tecnologias Usadas</h1>
+Esse projeto foi desenvolvido com as seguintes ferramentas:<br>
+&bullet; <b>HTML5<br>
+&bullet; Vanilla JavaScript<br>
+&bullet; Compilador SASS<br>
+&bullet; Figma<br><br>
 
-##🚀 Tecnologias Usadas
 
-Esse projeto foi desenvolvido com as seguintes ferramentas:
-*HTML5
-*Vanilla JavaScript
-*Compilador SASS
-*Figma
+<h1>📝 Licença</h1>
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.<br><br>
 
-##📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Desenvolvido com 💜 por Gustavo Cunguara
